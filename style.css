@@ -1,0 +1,65 @@
+Body{
+background-color: #ffffff;
+}
+p{
+text-align: justify;
+}
+
+div {
+	display: block;
+    padding: 10px;
+    float: left;
+	width: 32%
+    }
+
+.card{
+widht:30%;
+box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+border-radius: 30px;
+position: relative;
+margin:10px;
+}
+
+img{
+width:100%;
+border-radius: 5px 5px 0 0;
+}
+
+.container{
+padding: 2px 16 px;
+}
+
+h1{
+position:absolute;
+top:7px;
+left:22%;
+color:white;
+padding:10px;
+margin:5px;
+text-shadow:2px 3px 4px #3333ff;
+font-size: 30px;
+}
+
+h2{
+position:absolute;
+top:7px;
+left:55%;
+color:white;
+padding:10px;
+margin:5px;
+text-shadow:2px 3px 4px red;
+font-size: 30px;
+}
+
+h3{
+position:absolute;
+top:7px;
+right:3%;
+color:white;
+padding:8px;
+margin:5px;
+text-shadow:2px 3px 4px red;
+font-size:30px;
+}
+
+
